@@ -1,5 +1,5 @@
-##Monitor de recursos do computador
-Utilizando os do Node.js
+## Monitor de recursos do computador
+Utilizando 'os' do Node.js
 
 ## comando: node monitor.js
 
