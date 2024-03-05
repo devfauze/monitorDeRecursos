@@ -6,4 +6,5 @@ Utilizando os do Node.js
 Resultado:
 (Monitoramento atualizado a cada 1000ms, trazendo informações do computador)
 
-![image](https://github.com/devfauze/monitorDeRecursos/assets/97612275/2ef35804-534d-4cf3-9281-0163994141e8)
+
+![image](https://github.com/devfauze/monitorDeRecursos/assets/97612275/b62b3a51-c4a0-4048-aaad-2c2f216d7569)
